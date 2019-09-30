@@ -19,11 +19,9 @@
   },
   "homepage": "https://github.com/Splice-Ind-Comercio-e-Servico-Ltda/<REPOSITORY>.git#readme",
   "license": "MIT",
-  "dependencies": {
-    "eslint-config-prettier": "^6.3.0",
-    "prettier": "^1.18.2"
-  },
   "devDependencies": {
+    "eslint-config-prettier": "^6.3.0",
+    "prettier": "^1.18.2",
     "@babel/core": "7.4.3",
     "@svgr/webpack": "^4.2.0",
     "@typescript-eslint/eslint-plugin": "1.6.0",
